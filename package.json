@@ -1,0 +1,28 @@
+{
+  "name": "fl2024-discordjs",
+  "version": "1.0.0",
+  "description": "Collin College Software Engineering Club's Discord bot made in Javascript",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CCSWEC/FL2024-DiscordJS.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "CCSWEC",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/CCSWEC/FL2024-DiscordJS/issues"
+  },
+  "homepage": "https://github.com/CCSWEC/FL2024-DiscordJS#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
